@@ -1,0 +1,91 @@
+Filiale,Nom,Poste,Taux horaire,Heures/semaine,Heures contrat,Salaire
+TechCorp,Helen,Chef de projet,50,44,37,9500
+TechCorp,Quincy,Testeur,28,48,40,5824
+TechCorp,Fred,Manager,55,33,40,7260
+TechCorp,Steve,Chef de projet,50,32,40,6400
+TechCorp,Linda,Chef de projet,50,34,35,6800
+TechCorp,Bob,Analyste,40,35,40,5600
+TechCorp,Steve,Chef de projet,50,50,37,11300
+TechCorp,Karen,Développeur,35,33,40,4620
+TechCorp,Paul,Designer,30,30,35,3600
+TechCorp,Bob,Développeur,35,48,35,7630
+TechCorp,Bob,Manager,55,45,35,11000
+TechCorp,Mike,Testeur,28,33,40,3696
+TechCorp,Mike,Chef de projet,50,43,40,8900
+TechCorp,Charlie,Chef de projet,50,32,37,6400
+TechCorp,Helen,Testeur,28,48,35,6104
+DesignWorks,Jack,Analyste,40,38,40,6080
+DesignWorks,Emma,Designer,30,34,40,4080
+DesignWorks,Ian,Chef de projet,50,37,35,7600
+DesignWorks,Tina,Testeur,28,48,35,6104
+DesignWorks,Oliver,Chef de projet,50,49,40,10700
+DesignWorks,Jack,Designer,30,33,35,3960
+DesignWorks,Oliver,Manager,55,45,40,10450
+DesignWorks,Rachel,Testeur,28,37,35,4256
+DesignWorks,Ian,Testeur,28,43,37,5152
+DesignWorks,Jack,Chef de projet,50,37,35,7600
+DesignWorks,Rachel,Analyste,40,32,35,5120
+DesignWorks,Helen,Développeur,35,37,35,5320
+DesignWorks,George,Développeur,35,30,40,4200
+DesignWorks,Rachel,Testeur,28,48,35,6104
+DesignWorks,Emma,Chef de projet,50,44,37,9500
+DesignWorks,Mike,Manager,55,32,40,7040
+DesignWorks,Ian,Chef de projet,50,39,35,8200
+DesignWorks,Bob,Chef de projet,50,45,35,10000
+ProjectLead,Fred,Testeur,28,49,40,5992
+ProjectLead,Mike,Développeur,35,32,37,4480
+ProjectLead,Oliver,Chef de projet,50,38,35,7900
+ProjectLead,Tina,Manager,55,37,37,8140
+ProjectLead,Linda,Testeur,28,39,37,4480
+ProjectLead,Rachel,Designer,30,48,35,6540
+ProjectLead,Bob,Manager,55,46,35,11330
+ProjectLead,Steve,Chef de projet,50,44,37,9500
+ProjectLead,Jack,Chef de projet,50,31,37,6200
+ProjectLead,Jack,Designer,30,46,35,6180
+ProjectLead,Charlie,Manager,55,43,37,10120
+ProjectLead,Oliver,Développeur,35,35,37,4900
+ProjectLead,Nina,Analyste,40,45,40,7600
+ProjectLead,Steve,Designer,30,42,37,5340
+ProjectLead,Linda,Développeur,35,36,35,5110
+ProjectLead,Jack,Testeur,28,46,35,5768
+ProjectLead,Charlie,Chef de projet,50,40,35,8500
+DataSolutions,Sarah,Développeur,38,40,40,6080
+DataSolutions,John,Analyste,42,36,40,6048
+DataSolutions,Sophie,Manager,55,47,37,11440
+DataSolutions,David,Chef de projet,50,38,40,7600
+DataSolutions,Monica,Testeur,28,35,35,3920
+DataSolutions,Alex,Développeur,38,43,40,6764
+DataSolutions,Emily,Analyste,42,41,35,7392
+DataSolutions,Jason,Chef de projet,50,36,37,7200
+DataSolutions,Anna,Manager,55,45,35,11000
+DataSolutions,Tom,Designer,30,37,35,4560
+InnovateIT,Lucas,Développeur,35,42,40,6020
+InnovateIT,Olivia,Analyste,40,32,35,5120
+InnovateIT,Mark,Chef de projet,50,38,35,7900
+InnovateIT,Sophia,Manager,55,48,37,11770
+InnovateIT,Leo,Testeur,28,37,40,4144
+InnovateIT,Eva,Designer,30,34,35,4080
+InnovateIT,Nina,Chef de projet,50,45,40,9500
+InnovateIT,Eric,Manager,55,46,37,11110
+InnovateIT,Liam,Développeur,35,36,40,5040
+InnovateIT,Zoe,Testeur,28,48,40,5824
+AIProTech,Isabelle,Chef de projet,50,37,35,7600
+AIProTech,Alexandre,Développeur,38,40,40,6080
+AIProTech,Julia,Manager,55,45,35,11000
+AIProTech,Samuel,Analyste,40,36,40,5760
+AIProTech,Lea,Designer,30,30,35,3600
+AIProTech,Noah,Développeur,38,44,40,6992
+AIProTech,Ava,Testeur,28,48,40,5824
+AIProTech,Ethan,Manager,55,46,35,11330
+AIProTech,Clara,Chef de projet,50,36,37,7200
+AIProTech,Max,Testeur,28,43,35,5264
+DevInnov,Amelia,Développeur,38,36,37,5472
+DevInnov,Nathan,Analyste,42,38,40,6384
+DevInnov,Emma,Manager,55,47,37,11440
+DevInnov,Tom,Chef de projet,50,40,35,8500
+DevInnov,Sophie,Testeur,28,43,35,5264
+DevInnov,Charlie,Développeur,38,41,40,6308
+DevInnov,Grace,Analyste,42,37,40,6216
+DevInnov,Oliver,Manager,55,44,35,10670
+DevInnov,Sophia,Chef de projet,50,35,37,7000
+DevInnov,Lucas,Testeur,28,48,40,5824
